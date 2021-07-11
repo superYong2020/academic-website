@@ -64,7 +64,7 @@ email: "yongcao_epic@hust.edu.cn"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-五年制直博生， 2018-2023    
+五年制直博生（2018-2023）    
 
 嵌入式与普适计算实验室
 
