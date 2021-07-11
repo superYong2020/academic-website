@@ -17,13 +17,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+研究领域:
+- 自然语言处理
+- 认知计算
+- 深度学习
 
 # Education to show in About widget
-education:
+教育背景:
   courses:
   - course: 计算机系统结构专业，博士在读
     institution: 华中科技大学
@@ -41,18 +41,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.hust.edu.cn
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/superYong2020
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/%E5%8B%87-%E6%9B%B9-369869212/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -62,13 +59,20 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yongcao_epic@hust.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Ph.D Candidate
-Embedded and Pervasive Computing (EPIC) Lab
-YongCao is currently a Ph.D student at Embedded and Pervasive Computing (EPIC) Laboratory in the School of Computer Science and Technology, HUST. He received his bachelor degree of Communication Engineering from College of Electrical Information of Sichuan University in 2018, China. His research interest is focused on cognitive computing, machine learning, signal processing etc.
+五年制直博生， 2018-2023    
+
+嵌入式与普适计算实验室     
+
+
+本科就读于四川大学电气信息工程专业，主要学习课程包括高等数学、线性代数、通信系统原理、信号与处理、移动通信、光纤通信、计算机网络、微机原理与接口技术等。专业排名1/60 (1%)，研究兴趣为信号处理、嵌入式开发、数学建模。
+
+
+目前就读于华中科技大学计算机科学与技术学院，主要研究基于医学数据的建模分析、基于信号处理与机器学习的联合优化问题、基于自然语言处理技术的对话系统研究、基于知识图谱与自然语言处理的语义理解算法设计等。
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
