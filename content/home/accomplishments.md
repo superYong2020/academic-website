@@ -3,11 +3,12 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+active: true
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
