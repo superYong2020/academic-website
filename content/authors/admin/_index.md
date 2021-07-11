@@ -25,11 +25,11 @@ Interests:
 # Education to show in About widget
 Education:
   courses:
-  - course: 计算机系统结构专业，博士在读
-    institution: 华中科技大学
+  - course: 计算机系统结构专业, 博士在读
+    institution: 计算机科学与技术学院 华中科技大学
     year: 2018-
-  - course: 通信工程专业，学士
-    institution: 四川大学
+  - course: 通信工程专业, 学士
+    institution: 电气信息学院 四川大学
     year: 2014
 
 
