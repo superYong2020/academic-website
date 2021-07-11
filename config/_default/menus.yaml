@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: 发表论文
-    url: '#posts'
+    url: '#accomplishments'
     weight: 20
   - name: 项目经历
     url: '#projects'
