@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Super Yong
+title: Cao Yong
 
 # Is this the primary user of the site?
 superuser: true
