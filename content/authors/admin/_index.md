@@ -6,7 +6,7 @@ title: Super Yong
 superuser: true
 
 # Role/position/tagline
-role: 计算机科学与技术学院2018级直博生
+role: 2018级计算机科学与技术学院直博生
 
 # Organizations/Affiliations to show in About widget
 organizations:
