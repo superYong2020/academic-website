@@ -1,16 +1,16 @@
 ---
 # Display name
-title: SuperYong
+title: Super Yong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 华中科技大学计算机科学与技术学院2018级直博生
+role: 计算机科学与技术学院2018级直博生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Huazhong University of Science and Technology
+- name: 华中科技大学
   url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,9 +69,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ph.D Candidate
+Embedded and Pervasive Computing (EPIC) Lab
+YongCao is currently a Ph.D student at Embedded and Pervasive Computing (EPIC) Laboratory in the School of Computer Science and Technology, HUST. He received his bachelor degree of Communication Engineering from College of Electrical Information of Sichuan University in 2018, China. His research interest is focused on cognitive computing, machine learning, signal processing etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
