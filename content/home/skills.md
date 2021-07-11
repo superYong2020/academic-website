@@ -17,18 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-python
+  icon: r-project
   icon_pack: fab
   name: Python
 - description: 100%
-  icon: fa-github
-  icon_pack: fab
+  icon: chart-line
+  icon_pack: fas
   name: Github
 - description: 60%
-  icon: academia
+  icon: camera-retro
   icon_pack: fas
   name: 算法
-
+- description: 90%
+  icon: r-project
+  icon_pack: fab
+  name: PyTorch
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Tensorflow
+- description: 60%
+  icon: camera-retro
+  icon_pack: fas
+  name: 摄影
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
