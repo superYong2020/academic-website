@@ -37,7 +37,7 @@ experience:
         * Deploying
         
   - title: 本科生
-    company: University X
+    company: 四川大学
     company_url: ''
     company_logo: org-x
     location: California
