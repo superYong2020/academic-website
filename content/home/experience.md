@@ -57,7 +57,7 @@ experience:
   - title: 知识图谱团队 算法部 实习生
     company: 小米
     company_url: ''
-    company_logo: scu
+    company_logo: xiaomi
     location: Hubei, China
     date_start: '2021-10-26'
     date_end: '2022-03-01'
