@@ -38,7 +38,7 @@ experience:
     date_start: '2018-09-01'
     date_end: '2023-06-01'
     
-  - title: 数据科学学院 学术访问
+  - title: 理工学院 学术访问
     company: 香港中文大学（深圳）
     company_url: ''
     company_logo: cuhksz
