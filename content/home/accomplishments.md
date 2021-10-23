@@ -27,11 +27,10 @@ item:
 - date_end: ""
   date_start: "2019-07-01"
   description: ""
-  organization: IEEE Internet of Things Journal
+  organization: Yong Cao, R. Wang, M. Chen, A. Barnawi  "IEEE Internet of Things Journal"
   organization_url: https://ieeexplore.ieee.org
   title: 'AI Agent in Software-defined Network: Agent-based Network Service Prediction and Wireless Resource Scheduling Optimization'
   url: "https://ieeexplore.ieee.org/document/8888257"
-  description: "Yong Cao, R. Wang, M. Chen, A. Barnawi"
 design:
   columns: '2' 
 ---
