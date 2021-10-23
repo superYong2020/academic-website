@@ -54,8 +54,7 @@ item:
   description: ""
   organization: IEEE Internet of Things Journal
   organization_url: https://ieeexplore.ieee.org/document/8888257
-  title: 'AI Agent in Software-defined Network: Agent-based Network
-Service Prediction and Wireless Resource Scheduling Optimization'
+  title: 'AI Agent in Software-defined Network: Agent-based Network Service Prediction and Wireless Resource Scheduling Optimization'
   url: ""
 
 design:
