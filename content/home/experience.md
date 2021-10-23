@@ -41,7 +41,7 @@ experience:
   - title: 数据科学学院 学术访问
     company: 香港中文大学（深圳）
     company_url: ''
-    company_logo: scu
+    company_logo: cuhksz
     location: Shenzhen, China
     date_start: '2020-07-01'
     date_end: '2020-11-01'
