@@ -48,7 +48,6 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-
 - certificate_url: https://raw.githubusercontent.com/superYong2020/images/master/ieee_ui_dialog.png
   date_end: "2020-12-21"
   date_start: "2020-07-01"
