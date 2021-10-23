@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 电气信息学院 通信工程专业 本科生
+  - title: 电气信息学院 通信工程专业 工学学士
     company: 四川大学
     company_url: ''
     company_logo: scu
@@ -46,7 +46,7 @@ experience:
     date_start: '2020-07-01'
     date_end: '2020-11-01'
     
-  - title: 自然语言处理团队 算法部 实习生
+  - title: 自然语言处理团队 算法实习生
     company: 深度赋智
     company_url: ''
     company_logo: sdfz
@@ -54,7 +54,7 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-06-01'
     
-  - title: 知识图谱团队 算法部 实习生
+  - title: 知识图谱团队 算法实习生
     company: 小米
     company_url: ''
     company_logo: xiaomi
