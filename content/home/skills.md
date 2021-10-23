@@ -18,12 +18,12 @@ subtitle:
 feature:
 - description: 90%
   icon: python
-  icon_pack: fa
+  icon_pack: fab
   name: Python
   
 - description: 100%
   icon: github
-  icon_pack: fa
+  icon_pack: fab
   name: Git
   
 - description: 60%
