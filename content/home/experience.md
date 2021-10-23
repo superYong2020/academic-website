@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: 电气信息学院 通信工程专业 本科生 v
+  - title: 电气信息学院 通信工程专业 本科生
     company: 四川大学
     company_url: ''
     company_logo: scu
@@ -44,13 +44,13 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
 
-  - title: 电气信息学院 通信工程专业 本科生 v
-    company: 四川大学
+  - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
+    company: 华中科技大学
     company_url: ''
     company_logo: scu
-    location: Sichuan, China
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Hubei, China
+    date_start: '2018-09-01'
+    date_end: '2023-06-31'
     
 design:
   columns: '2'
