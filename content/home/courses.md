@@ -22,9 +22,9 @@ feature:
 - icon: open-data
   icon_pack: ai
   name: 凸优化
-- icon: semantic-scholar
-  icon_pack: ai
-  name: 人工智能与机器学习
+- icon: square-root-alt
+  icon_pack: fas
+  name: 高等数学
 - icon: database
   icon_pack: fas
   name: 数据结构与算法
@@ -34,9 +34,9 @@ feature:
 - icon: table
   icon_pack: fas
   name: 概率统计
-- icon: square-root-alt
-  icon_pack: fas
-  name: 高等数学
+- icon: semantic-scholar
+  icon_pack: ai
+  name: 人工智能与机器学习
 - icon: satellite-dish
   icon_pack: fas
   name: 数字信号处理
