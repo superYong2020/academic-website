@@ -36,13 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: 电气信息学院 通信工程专业 本科
+  - title: 本科
     company: 四川大学
     company_url: ''
     company_logo: scu
     location: California
     date_start: '2014-09-01'
     date_end: '2018-06-31'
+    description: 电气信息学院 通信工程.
 
 design:
   columns: '2'
