@@ -27,12 +27,12 @@ feature:
   name: Git
   
 - description: 60%
-  icon: nlp
+  icon: dl
   icon_pack: "custom"
   name: 自然语言处理
   
 - description: 60%
-  icon: dl
+  icon: deeplearning
   icon_pack: "custom"
   name: 深度学习
   
