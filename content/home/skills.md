@@ -57,7 +57,7 @@ feature:
   name: Tensorflow
   
 - description: 50%
-  icon: image
+  icon: video
   icon_pack: "custom"
   name: 视频剪辑
 # Uncomment to use emoji icons.
