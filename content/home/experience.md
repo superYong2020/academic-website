@@ -48,9 +48,9 @@ experience:
     company: 华中科技大学
     company_url: ''
     company_logo: scu
-    location: Hubei, China
-    date_start: '2018-09-01'
-    date_end: '2023-06-31'
+    location: Sichuan, China
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     
 design:
   columns: '2'
