@@ -64,17 +64,12 @@ email: "yongcao_epic@hust.edu.cn"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-五年制直博生（2018-2023）    
 Ph.D Candidate (2018-2023)
-EPIC Lab 
 
-# 目前就读于华中科技大学计算机科学与技术学院，主要研究基于医学数据的建模分析、基于信号处理与机器学习的联合优化问题、基于自然语言处理技术的对话系统研究、基于知识图谱与自然语言处理的语义理解算法设计等。欢迎同行交流！
-# 本科就读于四川大学电气信息工程专业，主要学习课程包括高等数学、线性代数、通信系统原理、信号与处理、移动通信、光纤通信、计算机网络、微机原理与接口技术等。专业排名1/60 (1%)，研究兴趣为信号处理、嵌入式开发、数学建模。
+EPIC Lab 
 
 Currently studying in the school of computer science and technology of Huazhong University of science and technology, he mainly studies modeling and analysis based on medical data, joint optimization based on signal processing and machine learning, dialogue system research based on natural language processing technology, semantic understanding algorithm design based on knowledge map and natural language processing, etc. Welcome to communicate with colleagues!
 
 Undergraduate studies in electrical information engineering of Sichuan University, mainly including advanced mathematics, linear algebra, communication system principle, signal and processing, mobile communication, optical fiber communication, computer network, microcomputer principle and interface technology, etc. The major ranks 1 / 60 (1%), and the research interests are signal processing, embedded development and mathematical modeling.
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}, {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
