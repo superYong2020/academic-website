@@ -22,8 +22,8 @@ feature:
   name: Python
   
 - description: 100%
-  icon: github
-  icon_pack: fab
+  icon: git
+  icon_pack: "custom"
   name: Git
   
 - description: 60%
