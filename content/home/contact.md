@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Contact
-subtitle:
+subtitle: '有朋自远方来，不亦乐乎'
 
 content:
   # Automatically link email and phone or display as text?
