@@ -38,37 +38,29 @@ experience:
     date_start: '2018-09-01'
     date_end: '2023-06-01'
     
-  - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
-    company: 华中科技大学
+  - title: 数据科学学院 学术访问
+    company: 香港中文大学（深圳）
     company_url: ''
-    company_logo: hust
-    location: Hubei, China
-    date_start: '2018-09-01'
-    date_end: '2023-06-01'
+    company_logo: scu
+    location: Shenzhen, China
+    date_start: '2020-07-01'
+    date_end: '2020-11-01'
     
-  - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
-    company: 华中科技大学
+  - title: 自然语言处理团队 算法部 实习生
+    company: 深度赋智
     company_url: ''
-    company_logo: hust
-    location: Hubei, China
-    date_start: '2018-09-01'
-    date_end: '2023-06-01'
+    company_logo: scu
+    location: Shenzhen, China
+    date_start: '2021-01-01'
+    date_end: '2021-06-01'
     
-  - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
-    company: 华中科技大学
+  - title: 知识图谱团队 算法部 实习生
+    company: 小米
     company_url: ''
-    company_logo: hust
+    company_logo: scu
     location: Hubei, China
-    date_start: '2018-09-01'
-    date_end: '2023-06-01'
-    
-  - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
-    company: 华中科技大学
-    company_url: ''
-    company_logo: hust
-    location: Hubei, China
-    date_start: '2018-09-01'
-    date_end: '2023-06-01'
+    date_start: '2021-10-26'
+    date_end: '2022-03-01'
     
 design:
   columns: '2'
