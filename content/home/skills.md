@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Skills
-subtitle:
+subtitle: '理无专在，学无止境'
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
