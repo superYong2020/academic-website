@@ -48,7 +48,7 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-- certificate_url: https://ieeexplore.ieee.org/Xplore/home.jsp
+- certificate_url: https://ieeexplore.ieee.org
   date_end: ""
   date_start: "2019-07-01"
   description: ""
