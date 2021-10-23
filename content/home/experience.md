@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: 电气信息学院 通信工程专业.
+    description: 电气信息学院 通信工程专业 x.
 
 design:
   columns: '2'
