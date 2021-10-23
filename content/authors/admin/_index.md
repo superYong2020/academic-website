@@ -6,7 +6,7 @@ title: Yong Cao（曹 勇）
 superuser: true
 
 # Role/position/tagline
-role: 2018级计算机科学与技术学院直博生
+role: 2018级计算机科学与技术学院研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -64,9 +64,9 @@ email: "yongcao_epic@hust.edu.cn"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-五年制直博生（2018-2023） :man_student:  
+五年制在读博士生（2018 - 2023） :man_student:  
 
-嵌入式与普适计算实验室
+:triangular_flag_on_post: 嵌入式与普适计算实验室
 
 目前就读于华中科技大学计算机科学与技术学院，主要研究基于医学数据的建模分析、基于信号处理与机器学习的联合优化问题、基于自然语言处理技术的对话系统研究、基于知识图谱与自然语言处理的语义理解算法设计等。欢迎同行交流！:wave:
 
