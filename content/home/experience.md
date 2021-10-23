@@ -49,7 +49,7 @@ experience:
   - title: 自然语言处理团队 算法部 实习生
     company: 深度赋智
     company_url: ''
-    company_logo: scu
+    company_logo: sdfz
     location: Shenzhen, China
     date_start: '2021-01-01'
     date_end: '2021-06-01'
