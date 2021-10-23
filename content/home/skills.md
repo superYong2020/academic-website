@@ -47,12 +47,12 @@ feature:
   name: Docker
   
 - description: 60%
-  icon: git
+  icon: linux
   icon_pack: "custom"
   name: Linux
   
 - description: 60%
-  icon: git
+  icon: tensorflow
   icon_pack: "custom"
   name: Tensorflow
   
