@@ -10,7 +10,7 @@ headless: true
 weight: 25
 
 title: Courses
-subtitle:
+subtitle:'取之其上，得乎其中
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
