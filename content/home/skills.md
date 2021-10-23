@@ -32,7 +32,7 @@ feature:
   name: 自然语言处理
   
 - description: 60%
-  icon: git
+  icon: dl
   icon_pack: "custom"
   name: 深度学习
   
