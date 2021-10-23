@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: obp
+- icon: ads
   icon_pack: ai
   name: 自然语言处理导论
 - icon: open-data
@@ -40,7 +40,7 @@ feature:
 - icon: satellite-dish
   icon_pack: fas
   name: 数字信号处理
-- icon: fa-chart-bar
+- icon: chart-bar
   icon_pack: fas
   name: 数值分析
 
