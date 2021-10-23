@@ -57,7 +57,7 @@ feature:
   name: Tensorflow
   
 - description: 50%
-  icon: git
+  icon: image
   icon_pack: "custom"
   name: 视频剪辑
 # Uncomment to use emoji icons.
