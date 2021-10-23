@@ -12,7 +12,7 @@ weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: Publications
-subtitle:
+subtitle: '道阻且长，行则将至'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
