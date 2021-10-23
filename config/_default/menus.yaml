@@ -19,7 +19,7 @@ main:
   - name: 学术经历
     url: '#experience'
     weight: 30
-  - name: Contact
+  - name: 联系方式
     url: '#contact'
     weight: 60
 
