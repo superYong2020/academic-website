@@ -59,5 +59,5 @@ experience:
     date_start: '2021-10-26'
     date_end: '2022-03-31'
 design:
-  columns: '2'
+  columns: '5'
 ---
