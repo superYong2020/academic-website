@@ -48,13 +48,14 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-- certificate_url: https://raw.githubusercontent.com/superYong2020/images/master/ieee_ui_dialog.png
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://ieeexplore.ieee.org
+  date_end: ""
+  date_start: "2019-07"
   description: ""
-  organization: HHHHHHHHHH
-  organization_url: HHHHHHHHHHHHHHHHHHHHHHH
-  title: 'paper title 1 333'
+  organization: IEEE Internet of Things Journal
+  organization_url: https://ieeexplore.ieee.org/document/8888257
+  title: 'AI Agent in Software-defined Network: Agent-based Network
+Service Prediction and Wireless Resource Scheduling Optimization'
   url: ""
 
 design:
