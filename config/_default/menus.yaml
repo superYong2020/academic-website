@@ -13,8 +13,8 @@ main:
   - name: 发表论文
     url: '#accomplishments'
     weight: 20
-  - name: 项目经历
-    url: '#projects'
+  - name: 学术经历
+    url: '#experience'
     weight: 30
   - name: 技术博客
     url: '#talks'
