@@ -48,13 +48,13 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
-- certificate_url: https://ieeexplore.ieee.org
-  date_end: ""
-  date_start: "2019-07"
+- certificate_url: https://www.datacamp.com
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
   description: ""
-  organization: IEEE Internet of Things Journal
-  organization_url: https://ieeexplore.ieee.org/document/8888257
-  title: 'AI Agent in Software-defined Network: Agent-based Network Service Prediction and Wireless Resource Scheduling Optimization'
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R'
   url: ""
 design:
   columns: '2' 
