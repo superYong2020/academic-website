@@ -37,12 +37,12 @@ feature:
   name: 深度学习
   
 - description: 60%
-  icon: git
+  icon: torch
   icon_pack: "custom"
   name: PyTorch
 
 - description: 60%
-  icon: git
+  icon: docker
   icon_pack: "custom"
   name: Docker
   
