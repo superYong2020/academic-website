@@ -28,8 +28,8 @@ feature:
 - icon: datacite
   icon_pack: ai
   name: 数据结构与算法
-- icon: server
-  icon_pack: fas
+- icon: ideas-repec
+  icon_pack: ai
   name: 分布式计算
 - icon: table
   icon_pack: fas
@@ -37,11 +37,11 @@ feature:
 - icon: ads
   icon_pack: ai
   name: 人工智能与机器学习
-- icon: satellite-dish
-  icon_pack: fas
+- icon: inspire
+  icon_pack: ai
   name: 数字信号处理
-- icon: chart-bar
-  icon_pack: fas
+- icon: dataverse
+  icon_pack: ai
   name: 数值分析
 
 # Uncomment to use emoji icons.
