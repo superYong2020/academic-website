@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: 电气信息学院 通信工程专业 本科生 c
+  - title: 电气信息学院 通信工程专业 本科生
     company: 四川大学
     company_url: ''
     company_logo: scu
