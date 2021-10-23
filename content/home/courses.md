@@ -22,8 +22,8 @@ feature:
 - icon: pubpeer
   icon_pack: ai
   name: 凸优化
-- icon: square-root-alt
-  icon_pack: fas
+- icon: react
+  icon_pack: fab
   name: 高等数学
 - icon: datacite
   icon_pack: ai
@@ -31,8 +31,8 @@ feature:
 - icon: ideas-repec
   icon_pack: ai
   name: 分布式计算
-- icon: table
-  icon_pack: fas
+- icon: buromobelexperte
+  icon_pack: fab
   name: 概率统计
 - icon: ads
   icon_pack: ai
