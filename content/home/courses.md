@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: ads
+- icon: semantic-scholar
   icon_pack: ai
   name: 自然语言处理导论
-- icon: open-data
+- icon: pubpeer
   icon_pack: ai
   name: 凸优化
 - icon: square-root-alt
   icon_pack: fas
   name: 高等数学
-- icon: database
-  icon_pack: fas
+- icon: datacite
+  icon_pack: ai
   name: 数据结构与算法
 - icon: server
   icon_pack: fas
@@ -34,7 +34,7 @@ feature:
 - icon: table
   icon_pack: fas
   name: 概率统计
-- icon: semantic-scholar
+- icon: ads
   icon_pack: ai
   name: 人工智能与机器学习
 - icon: satellite-dish
