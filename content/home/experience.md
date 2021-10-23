@@ -47,7 +47,7 @@ experience:
   - title: 计算机科学与技术学院 计算机系统结构专业 硕博连读
     company: 华中科技大学
     company_url: ''
-    company_logo: scu
+    company_logo: hust
     location: Hubei, China
     date_start: '2018-09-01'
     date_end: '2023-06-01'
