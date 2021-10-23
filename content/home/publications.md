@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: '道阻且长，行则将至'
 
 content:
   # Page type to display. E.g. post, talk, publication...
