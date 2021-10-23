@@ -53,5 +53,5 @@ experience:
     date_end: '2023-06-31'
 
 design:
-  columns: '3'
+  columns: '2'
 ---
