@@ -40,10 +40,10 @@ experience:
     company: 四川大学
     company_url: ''
     company_logo: scu
-    location: California
+    location: Sichuan, China
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: 电气信息学院 通信工程专业 x.
+    description: 电气信息学院 通信工程专业.
 
 design:
   columns: '2'
