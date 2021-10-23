@@ -16,12 +16,6 @@ main:
   - name: 学术经历
     url: '#experience'
     weight: 30
-  - name: 技术博客
-    url: '#talks'
-    weight: 40
-  - name: 生活
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
@@ -31,3 +25,11 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+
+#  - name: 技术博客
+#    url: '#talks'
+#    weight: 40
+#  - name: 生活
+#    url: '#featured'
+#    weight: 50
