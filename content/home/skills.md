@@ -16,47 +16,47 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: python
+- description: 60%
+  icon: dl
   icon_pack: "custom"
-  name: Python
+  name: 自然语言处理
+
+- description: 50%
+  icon: deeplearning
+  icon_pack: "custom"
+  name: 深度学习
+  
+- description: 70%
+  icon: torch
+  icon_pack: "custom"
+  name: PyTorch
   
 - description: 100%
   icon: git
   icon_pack: "custom"
   name: Git
   
-- description: 60%
-  icon: dl
+- description: 40%
+  icon: tensorflow
   icon_pack: "custom"
-  name: 自然语言处理
+  name: Tensorflow
   
-- description: 60%
-  icon: deeplearning
+- description: 90%
+  icon: python
   icon_pack: "custom"
-  name: 深度学习
-  
-- description: 60%
-  icon: torch
-  icon_pack: "custom"
-  name: PyTorch
+  name: Python
 
 - description: 60%
   icon: docker
   icon_pack: "custom"
   name: Docker
   
-- description: 60%
+- description: 90%
   icon: linux
   icon_pack: "custom"
   name: Linux
   
-- description: 60%
-  icon: tensorflow
-  icon_pack: "custom"
-  name: Tensorflow
-  
-- description: 50%
+- description: 80%
   icon: video
   icon_pack: "custom"
   name: 视频剪辑
