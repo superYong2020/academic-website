@@ -16,15 +16,33 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: 自然语言处理导论
-- name: 人工智能与机器学习
-- name: 数值分析
-- name: 数据结构与算法
-- name: 分布式计算
-- name: 概率统计
-- name: 高等数学
-- name: 数字信号处理
-- name: 凸优化
+- icon: obp
+  icon_pack: ai
+  name: 自然语言处理导论
+- icon: open-data
+  icon_pack: ai
+  name: 凸优化
+- icon: semantic-scholar
+  icon_pack: ai
+  name: 人工智能与机器学习
+- icon: database
+  icon_pack: fas
+  name: 数据结构与算法
+- icon: server
+  icon_pack: fas
+  name: 分布式计算
+- icon: table
+  icon_pack: fas
+  name: 概率统计
+- icon: square-root-alt
+  icon_pack: fas
+  name: 高等数学
+- icon: satellite-dish
+  icon_pack: fas
+  name: 数字信号处理
+- icon: fa-chart-bar
+  icon_pack: fas
+  name: 数值分析
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
