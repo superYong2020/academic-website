@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Experience
-subtitle:
+subtitle: '海纳百川，有容乃大'
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
