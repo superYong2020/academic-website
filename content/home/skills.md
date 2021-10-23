@@ -23,11 +23,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Github
+  name: Git
 - description: 60%
   icon: camera-retro
   icon_pack: fas
-  name: 算法
+  name: 自然语言处理
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
