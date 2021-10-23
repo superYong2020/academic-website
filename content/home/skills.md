@@ -27,38 +27,38 @@ feature:
   name: Git
   
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: nlp
+  icon_pack: "custom"
   name: 自然语言处理
   
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: 深度学习
   
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: PyTorch
 
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: Docker
   
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: Linux
   
 - description: 60%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: Tensorflow
   
 - description: 50%
-  icon: camera-retro
-  icon_pack: fas
+  icon: git
+  icon_pack: "custom"
   name: 视频剪辑
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
